@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a computer programming student at Clover Park Technical College in Lakewood, WA.
+
+Some of the projects that I've worked on:
+- <a href="https://github.com/NullPointer1331/DnDesigner.git">DnDesigner</a>: A D&D resource site that lets you make interactive online character sheets for free.
+- <a href="https://github.com/ScarlandianProgrammer/CPWeCommerceSite.git">CPWeCommerceSite</a>: An eCommerce site that I made from scratch while learning .NET WEB programming.
+
 <!--
 **ScarlandianProgrammer/ScarlandianProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
